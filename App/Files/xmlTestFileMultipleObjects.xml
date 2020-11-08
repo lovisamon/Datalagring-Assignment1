@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<group>
+	<person>
+		<firstname>Mimmi</firstname>
+		<lastname>Morot</lastname>
+		<age>10</age>
+		<city>Oslo</city>
+	</person>
+	<person>
+		<firstname>Millie</firstname>
+		<lastname>Moon</lastname>
+		<age>10</age>
+		<city>Oslo</city>
+	</person>
+</group>
